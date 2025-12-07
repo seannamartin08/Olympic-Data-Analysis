@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏅 Olympic Data Analysis (1976–2008)
 
 This project explores historical Olympic data from 1976 to 2008 using Python.  
@@ -50,3 +51,7 @@ Highlights countries that consistently performed well.
 ```bash
 git clone https://github.com/USERNAME/Olympic-Data-Analysis.git
 cd Olympic-Data-Analysis
+=======
+# Olympic-Data-Analysis
+Olympic-Data-Analysis
+>>>>>>> 49690bb6fab6d08b2640d57ab411feffd8c3bab4
