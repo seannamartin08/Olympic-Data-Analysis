@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🏅 Olympic Data Analysis (1976–2008)
 
 This project explores historical Olympic data from 1976 to 2008 using Python.  
@@ -16,6 +15,26 @@ The analysis includes visualizations, insights, and a presentation summarizing f
 ---
 
 ## 📂 Project Structure
+Olympic-Data-Analysis/
+│
+├── data/
+│ └── athlete_events.csv
+│
+├── notebooks/
+│ └── olympic_analysis.ipynb
+│
+├── visuals/
+│ ├── medal_trend.png
+│ └── top_countries.png
+│
+├── presentation/
+│ └── Olympic_Data_Analysis_Presentation.pptx
+│
+├── README.md
+└── requirements.txt
+
+yaml
+Copy code
 
 ---
 
@@ -49,9 +68,5 @@ Highlights countries that consistently performed well.
 
 ### **1. Clone the repository**
 ```bash
-git clone https://github.com/USERNAME/Olympic-Data-Analysis.git
+git clone https://github.com/seannamartin08/Olympic-Data-Analysis.git
 cd Olympic-Data-Analysis
-=======
-# Olympic-Data-Analysis
-Olympic-Data-Analysis
->>>>>>> 49690bb6fab6d08b2640d57ab411feffd8c3bab4
